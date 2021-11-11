@@ -58,7 +58,7 @@ Benimkiler mevludden mevlude
 Seyidi kaçırmışlar 
 Cana geliceğine mala gelsin 
 ula susak 
-"""
+"""                         
 
 sinan = """
 Tırın tırın tırın 
